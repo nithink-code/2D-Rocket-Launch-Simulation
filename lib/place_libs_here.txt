@@ -1,0 +1,3 @@
+# OpenGL GLUT Library Placeholder
+Place your `libfreeglut.a` or `glut32.lib` files inside this directory (`lib/`).
+The build task is configured to link against `-lfreeglut`.

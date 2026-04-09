@@ -1,0 +1,3 @@
+# OpenGL GLUT Header Placeholder
+Place your `glut.h` or `freeglut.h` files inside this directory (`include/GL/`).
+The project is configured to look for `#include <GL/glut.h>`.

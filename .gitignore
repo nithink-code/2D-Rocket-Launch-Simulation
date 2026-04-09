@@ -1,0 +1,53 @@
+# Build results
+*.exe
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+*.lib
+*.a
+*.pdb
+*.idb
+*.ilk
+*.exp
+
+# Folders
+.vscode/
+.vs/
+build/
+bin/
+out/
+Debug/
+Release/
+x64/
+x86/
+ipch/
+
+# Environment files and secrets
+.env
+.env.local
+.env.*.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.secret
+*.key
+*.pem
+*.cert
+credentials.json
+config.local.json
+secrets.h
+private.h
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# User specific files
+*.user
+*.suo
+*.sln.docstates
+*.ncb
+*.sdf
+*.opensdf
